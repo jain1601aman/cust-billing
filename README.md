@@ -1,2 +1,2 @@
-# cust-billing
+# customer-billing
 Customer Billing system developed on Python
